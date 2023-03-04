@@ -1,3 +1,10 @@
+---
+layout: post
+title: Outreach is the Antidote to Intellectual Elitism
+date: 2023-03-04 11:40:00 -0600
+tags: Random
+---
+
 ## Outreach is the Antidote to Intellectual Elitism  
 
 There is a tragic element to the acquisition of knowledge, to any experience of developing a richer understanding or experience of the world.
