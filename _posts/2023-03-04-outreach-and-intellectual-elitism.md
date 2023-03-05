@@ -41,19 +41,21 @@ In my view, that is the critical question. HOW do we bring others along for the 
 
 <br>
 
-It is tempting to get lost in the bliss of the finding itself. It is easy to be discouraged when we fail to share that new bliss with others. For whatever reason, we might retreat. It is beautiful to retreat into more reaching, more experimenting, more contemplation, and seek more understanding. It's intoxicating, but it is incomplete. When we emerge, we might be too many steps away from bringing anyone along for the ride. And the ride without others is a danger and a tragedy. 
+> ### "How have we lost society's interest in science? in theology? in religion? That's how."
+ 
 
 <br>
 
-How have we lost society's interest in science? in theology? in religion? That's how. 
+It is tempting to get lost in the bliss of the finding itself. It is easy to be discouraged when we fail to share that new bliss with others. A multitude of reasons may tempt us to retreat into more reaching, more experimenting, more contemplation, and seek more understanding. The refuge of intellectual pursuit is beautiful and intoxicating, but it is incomplete. When we emerge, we might be too many steps away from bringing anyone along for the ride. And the ride without others is a danger and a tragedy. How have we lost society's interest in science? in theology? in religion? That's how.
+
+<br>
+
+
+The palpable intellectual elitism within science, theology, and even spirituality is rarely the actual looking down upon the masses from the ivory towers of the intellectual elite. It is not the learned who think less of the uneducated and the “incapable of understanding”. It is often the result of the retreat of intellectuals into the task of understanding to such an extent that will not stop until we emerge with something brilliant, enlightening, world-changing. Sometimes it does become elitism and a feeling of superiority. A nonsensical delusion that comes from the presumption that understanding is accomplishment or virtue rather than the gift and the privilege it actually is.  
 
 <br>
 
 > ### "Personal greatness is often as imaginary as it is dangerously isolating."
-
-<br>
-
-The intellectual elitism I sometimes observe in science, theology, spirituality… is rarely the actual looking down upon the masses from the ivory towers of the intellectual elite. It is not the learned who think less of the uneducated and the “incapable of understanding”. It is often the result of the retreat of intellectuals into the task of understanding to such an extent that will not stop until we emerge with something brilliant, enlightening, world-changing. Sometimes it does become elitism and a feeling of superiority. A nonsensical delusion that comes merely from the need to see understanding as a personal virtue rather than the gift it is.  
 
 <br>
 
@@ -62,7 +64,7 @@ In the individualistic world we pretend to live in, it is fitting to retreat in 
 
 <br>
 
-We all want to be Einstein. We all want to be Aquinas. We want to settle for nothing less than personal greatness. Well, personal greatness is often as imaginary as it is dangerously isolating.
+We all wish to be Einstein. We all wish to be Aquinas. Those very aspirations may impact our willingness to share our insights. They set the bar at personal greatness. Well, personal greatness is often as imaginary as it is dangerously isolating.
 
 <br>
 
