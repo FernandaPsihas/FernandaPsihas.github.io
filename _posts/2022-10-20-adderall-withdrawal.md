@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Shame: the Adderall withdrawal symptom I am most afraid of.
-date: 2022-10-20
+title: Shame; the Adderall withdrawal symptom I am most afraid of
+date: 2022-10-20 11:40:00 -0600
 tags: ADHD
 ---
 
@@ -17,7 +17,7 @@ The closer I get to the day of my next Adderall refill, the more I wish to warn 
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/52eb0b4b4b2020ba0ca54eda8491d9735ddfc990/_posts/img/meds-deepai.jpeg)
+![image](img/meds-deepai.jpeg)
 
 _Running out of meds. Image created by [deepAI image generator](https://deepai.org/machine-learning-model/text2img)._
 
