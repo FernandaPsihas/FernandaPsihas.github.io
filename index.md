@@ -1,3 +1,5 @@
+I'm a Catholic, a particle phycisist, and most <br>
+recently an aspiring Theologian. <br>
 
 Blogging is vulnerable and it feels egotistical, <br>
 but outspokenness is a value that is worth embracing.  <br>
