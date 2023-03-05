@@ -1,7 +1,8 @@
 
-I am a particle phycisist and an aspiring theologian. 
+Blogging is vulnerable and it feels egotistical, <br>
+but outspokenness is a value that is worth modeling.  <br>
+No claims of brilliance here, just honesty.   <br>
 
-Blogging is vulnerable and it feels egotistical, but outspokenness is a value that is worth modeling. No claims of brilliance here, just honesty.  
-
-Thoughts about religion, science, society, and whatever else relates to the current object of my hyperfocus. 
+Thoughts about religion, science, society, and whatever  <br>
+else relates to the current object of my hyperfocus. 
 
