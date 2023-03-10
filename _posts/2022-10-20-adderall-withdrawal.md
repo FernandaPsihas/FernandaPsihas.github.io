@@ -17,7 +17,7 @@ The closer I get to the day of my next Adderall refill, the more I wish to warn 
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/meds-deepai.jpeg)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/meds-deepai.jpeg?raw=true)
 
 _Running out of meds. Image created by [deepAI image generator](https://deepai.org/machine-learning-model/text2img)._
 
