@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Random or designed?
-date: 2123-08-02 
+date: 2023-08-02 
 tags: Theology
 ---
 ## Random or designed?
