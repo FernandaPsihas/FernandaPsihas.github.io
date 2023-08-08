@@ -20,7 +20,9 @@ Think about the big mysteries of nature. How can a world that came about with ex
 
 <br>
 
-“God does not play dice.” said Einstein to his friend Neils Bohr. 
+> #### _“God does not play dice.”_
+> #### said Einstein to his friend Neils Bohr...
+
 He was speaking against the implications of quantum mechanics, but at the core of Einstein’s issue was the same logic: That random events cannot possibly be the act of God. Was Einstein wrong?
 
 <br>
