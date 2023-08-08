@@ -24,7 +24,9 @@ and His Spirit was present, even in the vacuum of space, now that time-space, th
 <br>
 
 The Big Bang is the 1st light that we know occurred in the universe. All that we see in physics and astronomy points back to that moment in history, it all points back to that very first light, that very first explosion.
-and God separated the light from the darkness. 5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day.
+and God separated the light from the darkness. 
+
+> #### _"5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."_
 
 <br>
 
