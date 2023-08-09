@@ -49,7 +49,7 @@ But what if you do it many times? Get yourself a bucket of dice and throw them o
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/01dice.jpg?raw=true)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/1dice.jpg?raw=true)
 
 <br>
 
