@@ -61,7 +61,7 @@ Woah what is that!?
 
 <br>
 
-Do you see the problem yet? 
+Do you see the problem? 
 
 <br>
 
