@@ -52,7 +52,8 @@ So here I go, trying to get AI to recreate an object of worship for the most sac
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcm.png)
+
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcm.png?raw=true)
 
 
 
@@ -86,7 +87,7 @@ Then it got even worse…
 /imagine monstrance coloring pages
 ```
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AImc.png)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AImc.png?raw=true)
 
 <br>
 
@@ -104,7 +105,7 @@ Still, I insisted. "Maybe it just needs to know my faith. I bet that adding some
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcmc.png)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcmc.png?raw=true)
 
 <br>
 
