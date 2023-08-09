@@ -116,7 +116,7 @@ As a scientist, I see the hand of God not only in my own life but in the laws of
 So, what did Neils Bohr reply to Einstein's “God does not play dice!”?
 
 > _“You do not tell God what to do.”_
->                         Niels Bohr
+>                         --Niels Bohr
 
 
 <br>
