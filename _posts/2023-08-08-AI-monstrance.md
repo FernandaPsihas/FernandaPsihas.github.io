@@ -8,7 +8,9 @@ tags: Random
 ## AI doesn’t get Christianity
 
 
-Of course, it doesn’t! Algorithms are only as good as the datasets they train on, i.e. the content we collectively create and promote. 
+Of course, it doesn’t! 
+
+Algorithms are only as good as the datasets they train on, i.e. the content we collectively create and promote. 
 Today I had a somber reminder of what that is. Or more specifically, what it isn’t. 
 
 <br>
