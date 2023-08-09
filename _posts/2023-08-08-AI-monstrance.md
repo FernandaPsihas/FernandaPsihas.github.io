@@ -1,0 +1,148 @@
+---
+layout: post
+title: A.I. does not get Christianity
+date: 2023-08-08 
+tags: Random
+---
+
+## AI doesn’t get Christianity
+
+
+Of course, it doesn’t! Algorithms are only as good as the datasets they train on, i.e. the content we collectively create and promote. 
+Today I had a somber reminder of what that is. Or more specifically, what it isn’t. 
+
+<br>
+
+Full disclosure, I’m working on a coloring book for the Eucharistic revival. I thought a monstrance coloring book would be a great idea to promote Eucharistic adoration. 
+Circles, patterns, Catholic symbols. This would make for a killer coloring book. 
+
+<br>
+
+A [monstrance](https://en.wikipedia.org/wiki/Monstrance) is meant to hold up the [Eucharist](https://www.catholic.com/encyclopedia/eucharist), that is, the real presence of Jesus Christ. 
+It is fitting that most monstrances look a bit like circular crowns with Christian references in every corner. Sometimes it is the number of elements (3 for the trinity, 12 for the apostles, 4 for the evangelists, etc.). 
+The elements themselves are also packed with meaning, not only in their symbolism but even in how they are distributed. 
+Monstrances are true pieces of art that aid us in symbolizing what, or rather, whose presence is really in there. 
+
+<br>
+
+As with most new ideas, I started drawing with great enthusiasm. 
+Try googling “how to create and sell a coloring book”. You’ll find endless guides on how to find free images or generate them. Very little on digitalizing your original work. 
+
+<br>
+
+Naturally, after a few hours of researching and working, I decided to outsource the task to a robot. 
+Boy, was I in for a surprise. 
+
+<br>
+
+"I’ve used AI in my science work before," I thought, I should at least give it a try. A few easy instructions and a $10 license later, I was ready to put the robots to work. "Who knows?" I thought. "Perhaps it will save me some hours of drawing concentric circles in illustrator." 
+
+
+<br>
+
+So here I go, trying to get AI to recreate an object of worship for the most sacred thing we have. I’ll admit that in retrospect I have no idea why I thought this would work… but at least I didn’t expect what I found… 
+
+<br>
+
+```
+/imagine monstrance
+```
+
+<br>
+
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_catholic_monstrance_41d98d38-a097-4e1e-b668-efdb8e70867d.png)
+
+
+
+Woah what is that!? 
+
+<br>
+
+Do you see the problem yet? 
+
+<br>
+
+Just stop for a moment to think about what the AI would say if it was trained to explain the purpose of this object. The geometry is there, it even looks kind of similar, but the main element. The thing that makes a monstrance what it is, is missing. The place for the Eucharist just isn’t there. 
+
+<br>
+
+This, ladies and gentlemen, is a great metaphor for the senseless pursuits of this world in the absence of a knowledge of Christ. Without Christ, it is all pretty pictures that look like they might mean something, or matter somewhat, but upon inspection they are just crude copies of the real thing with no memory of what they were supposed to be. 
+
+<br>
+
+It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. 
+The culture is forever forgetting about and washing away Christ. 
+
+<br>
+
+
+Let that sink in. 
+
+<br>
+
+At the time I of course did not immediately stop to mourn the culture. My pursuit, after all, was to enable my own complacency. So I did not relent. 
+
+<br>
+
+"Maybe if I ask it for the coloring book itself, it won’t matter that it has no idea what a monstrance is. It might make my job even easier!" 
+Then it got even worse… 
+
+<br>
+
+```
+/imagine monstrance coloring pages
+```
+
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_monstrance_coloring_page_ec7063aa-3707-4b21-a011-addb860beaff.png)
+
+<br>
+
+If I was confused before, now I was a little horrified. Maybe some cult stuff out there pollutes the internet. 
+
+<br>
+
+Still, I insisted. "Maybe it just needs to know my faith. I bet that adding some context will help it." 
+
+<br>
+
+```
+/imagine CATHOLIC monstrance coloring pages
+```
+
+<br>
+
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_catholic_monstrance_coloring_page_4e1887d0-f2ab-4d2c-8cac-9e5641afe615.png
+)
+
+<br>
+
+
+I’m not gonna lie, it wasn’t as bad as before, but in all honesty, that’s when the moral of this story really got to me. 
+
+<br>
+
+
+Some elements are there, but looking at this closely, you’ll see it all tends to make the same mistake: Here’s a picture of an object with some random aesthetic symmetries whose middle part is either important or supposed to be empty. And here’s a bunch of fluff added on for good measure. Color away! 
+
+<br>
+
+I had a sad moment, really. Thinking about this. 
+
+<br>
+
+
+Forgetting about a monstrance is one thing, but where will our culture be once it forgets all about sacrificial love and turning the other cheek? Where will we be when we have forgotten that we have a savior and that we have been redeemed? 
+
+<br>
+
+Where is everything going already? And what am I doing about it? 
+
+<br>
+
+In a secular world, do not hide your faith. It’s not about being right or forcing things of anyone. It is about at the very least, not being part of the reason why the world forgets. 
+
+
+
+
+
+
