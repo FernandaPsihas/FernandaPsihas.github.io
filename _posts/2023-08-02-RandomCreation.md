@@ -20,7 +20,7 @@ Think about the big mysteries of nature. How can a world that came about with ex
 
 <br>
 
-> _“God does not play dice.”_
+> _“God does not play dice!”_
 > said Einstein to his friend Neils Bohr...
 
 <br>
@@ -120,9 +120,9 @@ As a scientist, I see the hand of God not only in my own life but in the laws of
 
 <br>
 
-> _“God does not play dice”_
-> said Einstein to his friend Neihls Bohr who replied
-> _“You do not tell God what to do”_
+> _“God does not play dice!”_
+> said Einstein to his friend Neihls Bohr who replied: 
+> _**“You do not tell God what to do.”**_
 
 <br>
 
