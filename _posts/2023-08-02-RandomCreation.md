@@ -69,9 +69,8 @@ Suddenly not all outcomes are equally likely, and the probability distribution i
 But in a way, we now have more information about the possible outcome. How did adding another random process cause this change? Is this still “lawless randomness” or is it now less lawless? Was the flat distribution lawless at all? To shed light on these questions, let’s look at what happens when we increase the number of dice in the experiment.
 
 <br>
-<br>
 
-Throwing a die is supposed to be random. So why is it that the more dice we throw, the more precisely this peak is formed? In other words, why do some values become more likely? 
+Throwing a die is supposed to be random. So why is it that the more dice we throw, the more precisely this peak is formed?
 
 <br>
 
