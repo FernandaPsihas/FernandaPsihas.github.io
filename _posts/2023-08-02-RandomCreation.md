@@ -43,14 +43,15 @@ For most of us, saying something happened randomly is akin to saying it was acci
 
 When you roll a die, you might get any of its numbers and you only need to roll a few times to learn an important lesson: Short of a “lucky guess” you cannot predict what number you’ll roll. 
 
+<br>
+
 But what if you do it many times? Get yourself a bucket of dice and throw them one after the next. It won’t teach you anything you can use to cheat in a casino, but you’ll start to notice that you get each of the 6 possible results about 1/6th of the time. The more times you do it, the more precisely you’ll see that the probability is 1/6th for each outcome equally. If you graph the probability of rolling each number, it will look like this:   
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/diceprob1.png?raw=true)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/01dice.jpg?raw=true)
 
 <br>
-
 
 Pretty boring flat line. But bear with me. I claim that the implications of this flat line are way more interesting than you might think. 
 
@@ -61,11 +62,6 @@ In fact, there are many more ways to roll a 7 than there are to roll a 2 or a 12
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/dice.png?raw=true)
-
-
-<br>
-
 Suddenly not all outcomes are equally likely, and the probability distribution is no longer flat. Now you can make a better guess as to what you might roll, although in this case, you’ll still guess wrong most of the time. 
 
 <br>
@@ -73,14 +69,13 @@ Suddenly not all outcomes are equally likely, and the probability distribution i
 But in a way, we now have more information about the possible outcome. How did adding another random process cause this change? Is this still “lawless randomness” or is it now less lawless? Was the flat distribution lawless at all? To shed light on these questions, let’s look at what happens when we increase the number of dice in the experiment.
 
 <br>
-
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/diceprob.gif?raw=true)
-
 <br>
 
 Throwing a die is supposed to be random. So why is it that the more dice we throw, the more precisely this peak is formed? In other words, why do some values become more likely? 
 
 <br>
+
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/myimage.gif?raw=true)
 
 This shape means something fundamental. As it turns out,  random isn’t random at all. What I mean is that random isn’t lawless in the least bit. In fact, the more of these random processes we combine, the more certain the global outcome becomes. Even the probability distributions become more and more precise the more experiments we perform. 
 
