@@ -52,7 +52,7 @@ So here I go, trying to get AI to recreate an object of worship for the most sac
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_catholic_monstrance_41d98d38-a097-4e1e-b668-efdb8e70867d.png)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcm.png)
 
 
 
@@ -70,15 +70,6 @@ Just stop for a moment to think about what the AI would say if it was trained to
 
 This, ladies and gentlemen, is a great metaphor for the senseless pursuits of this world in the absence of a knowledge of Christ. Without Christ, it is all pretty pictures that look like they might mean something, or matter somewhat, but upon inspection they are just crude copies of the real thing with no memory of what they were supposed to be. 
 
-<br>
-
-It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. 
-The culture is forever forgetting about and washing away Christ. 
-
-<br>
-
-
-Let that sink in. 
 
 <br>
 
@@ -95,7 +86,7 @@ Then it got even worse…
 /imagine monstrance coloring pages
 ```
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_monstrance_coloring_page_ec7063aa-3707-4b21-a011-addb860beaff.png)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AImc.png)
 
 <br>
 
@@ -113,8 +104,7 @@ Still, I insisted. "Maybe it just needs to know my faith. I bet that adding some
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AI_catholic_monstrance_coloring_page_4e1887d0-f2ab-4d2c-8cac-9e5641afe615.png
-)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/AIcmc.png)
 
 <br>
 
@@ -132,6 +122,11 @@ I had a sad moment, really. Thinking about this.
 
 <br>
 
+It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. 
+The culture is forever forgetting about and washing away Christ from its memory. 
+
+
+<br>
 
 Forgetting about a monstrance is one thing, but where will our culture be once it forgets all about sacrificial love and turning the other cheek? Where will we be when we have forgotten that we have a savior and that we have been redeemed? 
 
@@ -141,7 +136,7 @@ Where is everything going already? And what am I doing about it?
 
 <br>
 
-In a secular world, do not hide your faith. It’s not about being right or forcing things of anyone. It is about at the very least, not being part of the reason why the world forgets. 
+In a secular world, do not hide your faith. It’s not about being right or forcing things on anyone. It is about, at the very least, not being part of the reason why the world forgets... 
 
 
 
