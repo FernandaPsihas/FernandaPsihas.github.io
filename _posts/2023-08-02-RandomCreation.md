@@ -11,9 +11,9 @@ Whether or not you are a believer, you might experience some logical discomfort 
 
 <br>
 
-> We, along with everything nature, are part of God’s creation
-> AND we also came about entirely by random chance.
-> 
+**We, along with everything nature, are part of God’s creation**
+**AND we also came about entirely by random chance.**
+
 <br>
 
 Think about the big mysteries of nature. How can a world that came about with exactly the right amount of Oxygen, water, heat, nutrients, etc. for human life to thrive on Earth be the product of random events? Even worse, if we evolved into human beings through millions of years worth of random mutations, where could the hand of God possibly fit in that?  
@@ -22,6 +22,8 @@ Think about the big mysteries of nature. How can a world that came about with ex
 
 > _“God does not play dice.”_
 > said Einstein to his friend Neils Bohr...
+
+<br>
 
 He was speaking against the implications of quantum mechanics, but at the core of Einstein’s issue was the same logic: That random events cannot possibly be the act of God. Was Einstein wrong?
 
