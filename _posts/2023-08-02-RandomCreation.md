@@ -107,8 +107,8 @@ These are the moments that make math and science so incredibly satisfying.
 
 <br>
 
-> **_"The heavens are telling the glory of God;"_**
-> **_"and the firmament proclaims his handiwork."_**
+> **_"The heavens are telling the glory of God;_**
+> **_and the firmament proclaims his handiwork."_**
 >                                     Psalm 19:1
 
 <br>
