@@ -37,12 +37,12 @@ Boy, was I in for a surprise.
 
 <br>
 
-"I’ve used AI in my science work before," I thought, I should at least give it a try. A few easy instructions and a $10 license later, I was ready to put the robots to work. "Who knows?" I thought. "Perhaps it will save me some hours of drawing concentric circles in illustrator." 
+"I’ve used AI in my science work before," I thought, I should at least give it a try. A few easy instructions and a $10 license later, I was ready to put the robots to work. "Who knows?" I thought. "Perhaps it will save me some hours of drawing concentric circles in Illustrator." 
 
 
 <br>
 
-So here I go, trying to get AI to recreate an object of worship for the most sacred thing we have. I’ll admit that in retrospect I have no idea why I thought this would work… but at least I didn’t expect what I found… 
+So here I go, trying to get AI to recreate an object of worship for the most sacred of the sacred. I’ll admit that, in retrospect, I have no idea why I thought this would work… but at least I didn’t expect what I found… 
 
 <br>
 
