@@ -121,7 +121,7 @@ As a scientist, I see the hand of God not only in my own life but in the laws of
 <br>
 
 > _“God does not play dice!”_
-> said Einstein to his friend Neihls Bohr who replied: 
+> said Einstein to his friend Neils Bohr who replied: 
 > _**“You do not tell God what to do.”**_
 
 <br>
