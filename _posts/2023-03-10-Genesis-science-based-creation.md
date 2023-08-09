@@ -9,7 +9,7 @@ tags: Theology
 
 <br>
 
-> #### _"1 In the beginning God created the heavens and the earth."_
+> ##### _"1 In the beginning God created the heavens and the earth."_
 
 <br>
 
@@ -17,16 +17,18 @@ The "heavens and the earth". Out of nothing, God created everything. Creatio ex 
 
 <br>
 
-> #### _"2 The earth was without form and void, and darkness was upon the face of the deep; and the Spirit[c] of God was moving over the face of the waters.
-and His Spirit was present, even in the vacuum of space, now that time-space, the Universe, and even the laws of nature had been created, there might have been nothing but formless darkness, but His plan had already been set in motion.
-3 And God said, "Let there be light"; and there was light. 4 And God saw that the light was good;"_
+> ##### _"2 The earth was without form and void, and darkness was upon the face of the deep; and the Spirit[c] of God was moving over the face of the waters.
+> ##### _and His Spirit was present, even in the vacuum of space, now that time-space, the Universe, and even the laws of nature had been created, there might have been nothing but formless darkness, but His plan had already been set in motion.
+> ##### _3 And God said, "Let there be light"; and there was light. 4 And God saw that the light was good;"_
 
 <br>
 
 The Big Bang is the 1st light that we know occurred in the universe. All that we see in physics and astronomy points back to that moment in history, it all points back to that very first light, that very first explosion.
 and God separated the light from the darkness. 
 
-> #### _"5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."_
+<br>
+
+> ##### _"5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."_
 
 <br>
 
@@ -34,7 +36,7 @@ Places of light and darkness, day and night, it was all made possible through th
 
 <br>
 
-> #### _"6 And God said, "Let there be a firmament in the midst of the waters, and let it separate the waters from the waters." 7 And God made the firmament and separated the waters which were under the firmament from the waters which were above the firmament. And it was so. 8 And God called the firmament Heaven. And there was evening and there was morning, a second day."_
+> ##### _"6 And God said, "Let there be a firmament in the midst of the waters, and let it separate the waters from the waters." 7 And God made the firmament and separated the waters which were under the firmament from the waters which were above the firmament. And it was so. 8 And God called the firmament Heaven. And there was evening and there was morning, a second day."_
 
 <br>
 
@@ -42,7 +44,7 @@ Where once was nothing but darkness now galaxies and stars and planets were begi
 
 <br>
 
-> #### _"9 And God said, "Let the waters under the heavens be gathered together into one place, and let the dry land appear." And it was so. 10 God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good. 11 And God said, "Let the earth put forth vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, upon the earth." And it was so. 12 The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good. 13 And there was evening and there was morning, a third day."_
+> ##### _"9 And God said, "Let the waters under the heavens be gathered together into one place, and let the dry land appear." And it was so. 10 God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good. 11 And God said, "Let the earth put forth vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, upon the earth." And it was so. 12 The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good. 13 And there was evening and there was morning, a third day."_
 
 <br>
 
@@ -50,7 +52,7 @@ The first life on planet Earth was small organisms, plankton, algae, small plant
 
 <br>
 
-> #### _"14 And God said, "Let there be lights in the firmament of the heavens to separate the day from the night; and let them be for signs and for seasons and for days and years, 15 and let them be lights in the firmament of the heavens to give light upon the earth." And it was so. 16 And God made the two great lights, the greater light to rule the day, and the lesser light to rule the night; he made the stars also. 17 And God set them in the firmament of the heavens to give light upon the earth, 18 to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good. 19 And there was evening and there was morning, a fourth day."_
+> ##### _"14 And God said, "Let there be lights in the firmament of the heavens to separate the day from the night; and let them be for signs and for seasons and for days and years, 15 and let them be lights in the firmament of the heavens to give light upon the earth." And it was so. 16 And God made the two great lights, the greater light to rule the day, and the lesser light to rule the night; he made the stars also. 17 And God set them in the firmament of the heavens to give light upon the earth, 18 to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good. 19 And there was evening and there was morning, a fourth day."_
 
 <br>
 
@@ -58,7 +60,7 @@ I don't know if anyone has told you, but the sun is actually more white than yel
 
 <br>
 
-> #### _"20 And God said, "Let the waters bring forth swarms of living creatures, and let birds fly above the earth across the firmament of the heavens." 21 So God created the great sea monsters and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good. 22 And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth." 23 And there was evening and there was morning, a fifth day."_
+> ##### _"20 And God said, "Let the waters bring forth swarms of living creatures, and let birds fly above the earth across the firmament of the heavens." 21 So God created the great sea monsters and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good. 22 And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth." 23 And there was evening and there was morning, a fifth day."_
 
 <br>
 
@@ -66,7 +68,7 @@ My favorite extinct creature is the Tiktaalik, the iconic species of that transi
 
 <br>
 
-> #### _"24 And God said, "Let the earth bring forth living creatures according to their kinds: cattle and creeping things and beasts of the earth according to their kinds." And it was so. 25 And God made the beasts of the earth according to their kinds and the cattle according to their kinds, and everything that creeps upon the ground according to its kind. And God saw that it was good."_
+> ##### _"24 And God said, "Let the earth bring forth living creatures according to their kinds: cattle and creeping things and beasts of the earth according to their kinds." And it was so. 25 And God made the beasts of the earth according to their kinds and the cattle according to their kinds, and everything that creeps upon the ground according to its kind. And God saw that it was good."_
 
 <br>
 
@@ -74,7 +76,7 @@ Mammals actually come quite late in evolution. Anything that is cuddly and cute,
 
 <br>
 
-> #### _"26 Then God said, "Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth." 27 So God created man in his own image, in the image of God he created him; male and female he created them. 28 And God blessed them, and God said to them, "Be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth." 29 And God said, "Behold, I have given you every plant yielding seed which is upon the face of all the earth, and every tree with seed in its fruit; you shall have them for food. 30 And to every beast of the earth, and to every bird of the air, and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food." And it was so. 31 And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, a sixth day."_
+> ##### _"26 Then God said, "Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth." 27 So God created man in his own image, in the image of God he created him; male and female he created them. 28 And God blessed them, and God said to them, "Be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth." 29 And God said, "Behold, I have given you every plant yielding seed which is upon the face of all the earth, and every tree with seed in its fruit; you shall have them for food. 30 And to every beast of the earth, and to every bird of the air, and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food." And it was so. 31 And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, a sixth day."_
 
 <br>
 
