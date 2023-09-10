@@ -5,7 +5,7 @@ date: 2023-09-08
 tags: Faith
 ---
 
-## St Jude & my conversion of trust
+## St Jude and my Conversion of Trust
 
 <br>
 
