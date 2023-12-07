@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shame; the Adderall withdrawal symptom I am most afraid of
-date: 2122-10-20 11:40:00 -0600
+date: 2022-10-20 11:40:00 -0600
 tags: ADHD
 ---
 
