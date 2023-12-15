@@ -62,6 +62,10 @@ In fact, there are many more ways to roll a 7 than there are to roll a 2 or a 12
 
 <br>
 
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/prob.png?raw=true)
+
+<br>
+
 Suddenly not all outcomes are equally likely, and the probability distribution is no longer flat. Now you can make a better guess as to what you might roll, although in this case, you’ll still guess wrong most of the time. 
 
 <br>
