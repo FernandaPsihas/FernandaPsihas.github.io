@@ -62,7 +62,7 @@ In fact, there are many more ways to roll a 7 than there are to roll a 2 or a 12
 
 <br>
 
-![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/prob.png?raw=true)
+![image](https://github.com/FernandaPsihas/FernandaPsihas.github.io/blob/main/_posts/img/dice.png?raw=true)
 
 <br>
 
