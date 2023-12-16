@@ -51,9 +51,10 @@ time and make said consequences occur.
 <br>
 
 Mary was immaculately conceived because of Jesus and Jesus was born because of Mary’s yes<sup>*</sup>. So either 
-	a.	God waits to see if Mary will say yes, then God goes to the past and makes her conception immaculate 
- OR
-	b.	God continues to wait until Christ's passion, then goes to the past and makes her conception immaculate 
+
+a.	God waits to see if Mary will say yes, then God goes to the past and makes her conception immaculate OR
+ 
+b.	God continues to wait until Christ's passion, then goes to the past and makes her conception immaculate 
 
 <br>
 
