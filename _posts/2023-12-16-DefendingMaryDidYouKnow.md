@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mary Did You Know? Space-time and The Immaculate Conception 
+title: "Mary Did You Know?" Space-time and The Immaculate Conception 
 date: 2023-12-16 
 tags: Theology
 ---
 
-# Mary, did you know?: Space-time and the Immaculate Conception
+# "Mary, did you know?": Space-time and the Immaculate Conception
 
 <br>
 
