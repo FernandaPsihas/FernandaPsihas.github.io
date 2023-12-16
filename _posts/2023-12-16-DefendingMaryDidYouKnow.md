@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Mary Did You Know?, Space-time, and The Immaculate Conception 
+title: Mary Did You Know? Space-time and The Immaculate Conception 
 date: 2023-12-16 
 tags: Theology
 ---
 
-# "Mary, did you know?", Space-time, and the Immaculate Conception
+# Mary, did you know?: Space-time and the Immaculate Conception
 
 <br>
 
 <blockquote>
 
-  _"Mary did you know that your baby boy
-<br>has come to make you new?
-<br>This child that you've delivered will soon deliver you._"
+_"Mary did you know that your baby boy_
+<br>_has come to make you new?_
+<br>_This child that you've delivered will soon deliver you._"
 </blockquote>
 
 <br>
@@ -106,8 +106,8 @@ Just as he asks us permission to come into our lives for our own mission and jus
 
 <blockquote>
 
-  _“For my thoughts are not your thoughts,
-<br>nor are your ways my ways, says the Lord."
+  _“For my thoughts are not your thoughts,_
+<br>_nor are your ways my ways, says the Lord."_
 <br>       Isaiah 55:8-9_"
 </blockquote>
 
