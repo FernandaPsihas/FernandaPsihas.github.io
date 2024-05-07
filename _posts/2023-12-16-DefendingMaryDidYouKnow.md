@@ -19,20 +19,12 @@ tags: Theology
 <br>
 
 It seems that every Christmas season, there is a new formulation 
-of the Catholic objection to these lyrics.  
-It usually goes something like this: 
-the lyrics state that Mary delivers baby Jesus—in the childbirth sense 
-of the word—before Jesus delivers her—in the salvation sense of the word. 
-This, the critics claim, contradicts the doctrine of prevenient grace, 
-as it is because of the future actions of Jesus that Mary receives the 
-grace of her Immaculate Conception and is able to become his mother in the first place. 
-In other words, by the time she delivers Jesus, he has already delivered her. ￼
+of the Catholic objection to these lyrics.  It usually goes something like this: the lyrics state that Mary delivers baby Jesus—in the childbirth sense of the word—before Jesus delivers her—in the salvation sense of the word. 
+This, the critics claim, contradicts the doctrine of prevenient grace, as it is because of the future actions of Jesus that Mary receives the grace of her Immaculate Conception and is able to become his mother in the first place. In other words, by the time she delivers Jesus, he has already delivered her. ￼
 
 <br>
 
-While it is understandable, even commendable, to focus on theology in our critique 
-of Christian art and narrative, it is less so when the theology on which the critique 
-stands can be reasonably debated. 
+While it is understandable, even commendable, to focus on theology in our critique of Christian art and narrative, it is less so when the theology on which the critique stands can be reasonably debated. 
 
 <br>
 
