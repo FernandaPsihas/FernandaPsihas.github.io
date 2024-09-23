@@ -24,11 +24,11 @@ The "heavens and the earth". Out of nothing, God created everything. Creatio ex 
 <br>
 
 The Big Bang is the 1st light that we know occurred in the universe. All that we see in physics and astronomy points back to that moment in history, it all points back to that very first light, that very first explosion.
-and God separated the light from the darkness. 
+ 
 
 <br>
 
-> ##### _"5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."_
+> ##### _"and God separated the light from the darkness. 5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, one day."_
 
 <br>
 
@@ -80,4 +80,4 @@ Mammals actually come quite late in evolution. Anything that is cuddly and cute,
 
 <br>
 
-This Universe is a beautiful gift, but I don't think of God as a builder or a painter, physically adding every detail in place. I think of God as a flawless computer programmer or one of those guys who make huge tiles of falling dominoes. Only setting his program in motion once he had set all the pieces in exactly the right place. God designed this Universe and the laws of nature and he made them good, inserting His providence in every moment, every time, and every place. You bet the guy deserved a break!
+This Universe is a beautiful gift, but I don't think of God as a builder or a painter, physically adding every detail in place. I don't exactly think of God as a flawless computer programmer or one of those guys who make huge tiles of falling dominoes, althought that is closer. Not only did God set his program in motion once he had set all the pieces in exactly the right place, but He actively and lovingly participates in the execution. God designs this Universe and the laws of nature and he made them good, inserting His providence in every moment, every time, and every place. However long it took for God's act of creation, you bet that He deserved a break!
