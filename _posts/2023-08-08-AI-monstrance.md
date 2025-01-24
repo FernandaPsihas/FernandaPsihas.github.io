@@ -139,7 +139,7 @@ There is a reason why the data that algorithms train with is so depleted of trut
 
 <br>
 
-What a renewal of the calling to be the light of the world, to make disciples of all nations! What a reminder that the impact that every blog post, every comment, every bit of our interaction with the online world (or lackthereof) is an opportunity to, at the very least, not be part of the reason why the world forgets... 
+What a renewal of the calling to be the light of the world, to make disciples of all nations! What a reminder that that every blog post, every comment, every bit of our interaction with the online world (or lackthereof) is an opportunity to, at the very least, not be part of the reason why the world forgets... 
 
 
 
