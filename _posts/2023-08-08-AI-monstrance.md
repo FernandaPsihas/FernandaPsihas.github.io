@@ -10,25 +10,25 @@ tags: Random
 
 Of course it doesn’t! 
 
-Algorithms are only as good as the datasets they train on, i.e. the content we collectively create and promote. 
+Algorithms are only as good as the data they train on. For modern AI tools that data is the content we collectively create and promote. 
 Today I had a somber reminder of what that is. Or more specifically, what it isn’t. 
 
 <br>
 
-Full disclosure, I’m working on a coloring book for the Eucharistic revival. I thought a monstrance coloring book would be a great idea to promote Eucharistic adoration. 
-Circles, patterns, Catholic symbols. This would make for a killer coloring book. 
+Full disclosure, I’m working on a coloring book inspired by the Eucharistic revival. I thought a monstrance coloring book would be a great idea to promote Eucharistic adoration. 
+Circles, patterns, Catholic symbols. This would make for a killer coloring book! 
 
 <br>
 
 A [monstrance](https://en.wikipedia.org/wiki/Monstrance) is meant to hold up the [Eucharist](https://www.catholic.com/encyclopedia/eucharist), that is, the real presence of Jesus Christ. 
-It is fitting that most monstrances look a bit like circular crowns with Christian references in every corner. Sometimes it is the number of elements (3 for the Trinity, 12 for the apostles, 4 for the evangelists, etc.). 
+It is fitting that most monstrances look a bit like circular crowns with Catholic references in every corner. Sometimes it is the number of elements (3 for the Trinity, 12 for the apostles, 4 for the evangelists, etc.). 
 The elements themselves are also packed with meaning, not only in their symbolism but even in how they are distributed. 
 Monstrances are true pieces of art that aid us in symbolizing what, or rather, whose presence is really in there. 
 
 <br>
 
 As with most new ideas, I started drawing with great enthusiasm. 
-Try googling “how to create and sell a coloring book”. You’ll find endless guides on how to find free images or generate them. Very little on digitalizing your own original work. 
+Try googling “how to create and sell a coloring book”. You’ll find endless guides on how to find free images or generate them and very little on digitalizing your own original work. 
 
 <br>
 
@@ -37,12 +37,12 @@ Boy, was I in for a surprise.
 
 <br>
 
-"I’ve used AI in my science work before," I thought I should at least give it a try. A few easy instructions and a $10 license later, I was ready to put the robots to work. "Who knows?" I thought. "Perhaps it will save me some hours of drawing concentric circles in Illustrator." 
+"I’ve used AI in my science work before," I thought, "I should at least give it a try". A few easy instructions and a $10 license later, I was ready to put the robots to work. "Who knows?" I thought. "Perhaps it will save me some hours of drawing concentric circles in Illustrator." 
 
 
 <br>
 
-So here I go, trying to get A.I. to recreate an object of worship for the most sacred of the sacred. I’ll admit that, in retrospect, I have no idea why I thought this would work… but at least I didn’t expect what I found… 
+So here I go, trying to get A.I. to recreate an object meant for the worship for the most sacred of the sacred. In retrospect, I have no idea why I thought this would work… but at least I didn’t expect what I found… 
 
 <br>
 
@@ -65,16 +65,16 @@ Do you see the problem?
 
 <br>
 
-Just stop for a moment to think about what the A.I. would say if it was trained to explain the purpose of this object. The geometry is there, it even looks kind of similar, but the main element. The thing that makes a monstrance what it is, is missing. The place for the Eucharist just isn’t there. 
+Just stop for a moment to think about what the A.I. would say if it was asked to explain the purpose of this object. The geometry is there, it even looks kind of similar, but the main element, what makes the whole point of a monstrance what it is, is missing. The place for the Eucharist just isn’t there. 
 
 <br>
 
-This, ladies and gentlemen, is a great metaphor for the senseless pursuits of this world in the absence of a knowledge of Christ. Without Christ, it is all pretty pictures that look like they might mean something, or matter somewhat, but upon inspection, they are just crude copies of the real thing with no memory of what they were supposed to be. 
+This, ladies and gentlemen, is a great metaphor for the senseless pursuits of this world in the absence of a knowledge of Christ. Without Christ, it is all pretty pictures that look like they might mean something, or matter somewhat, but on closer inspection, they are just crude copies of the real thing with no memory of what they were supposed to be. 
 
 
 <br>
 
-At the time I of course did not immediately stop to mourn the culture. My pursuit, after all, was to enable my own complacency. So I did not relent. 
+At the time I of course did not immediately stop to mourn what this implies about what has happened to our culture. My pursuit, after all, was to enable my own complacency. So I did not relent. 
 
 <br>
 
@@ -119,13 +119,11 @@ Some elements are there, but looking at this closely, you’ll see it all tends 
 
 <br>
 
-I had a sad moment, really. Thinking about this. 
+I had a sad moment, really, thinking about this. 
 
 <br>
 
-It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. 
-The culture is forever forgetting about and washing away Christ from its memory. 
-
+It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. The culture is just forgetting. This world has been washing away Christ from its memory in a wave of the comparatively irrelevant. 
 
 <br>
 
