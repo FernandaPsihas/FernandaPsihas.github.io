@@ -123,11 +123,11 @@ I had a sad moment, really, thinking about this.
 
 <br>
 
-It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian. It is not even actively hateful of Christianity nearly as much as we sometimes think it is. The culture is just forgetting. This world has been washing away Christ from its memory in a wave of the comparatively irrelevant. 
+It is not the robot’s fault, of course. It did the best it could. It is the input data that is the problem. It is but a symptom of the culture, which has forgotten about Christianity and Christ, to the point that any of this is just not a thing the internet cares about in the least bit. The culture is not just no longer Christian, it is not even actively hateful of Christianity nearly as much as we sometimes think it is. Rather, the culture at large has just been forgetting. This world has been washing away Christ from its memory in a wave of the comparatively irrelevant. 
 
 <br>
 
-Forgetting about a monstrance is one thing, but where will our culture be once it forgets all about sacrificial love and turning the other cheek? Where will we be when we have forgotten that we have a savior and that we have been redeemed? 
+Forgetting about a monstrance is one thing, but where will our culture be once it forgets all about His sacrifice. Where will we be when we have forgotten that we have a savior and that we have been redeemed? 
 
 <br>
 
@@ -135,7 +135,11 @@ Where is everything going already? And what am I doing about it?
 
 <br>
 
-In a secular world, do not hide your faith. It’s not about being right or forcing things on anyone. It is about, at the very least, not being part of the reason why the world forgets... 
+There is a reason why the data that algorithms train with is so depleted of truths about the faith. The secular culture is surely part of the problem, but the other part is us. Believers who relent in our efforts to engage others in the public square are partially responsible for what the summary of the collective human knowledge looks like right now. It turns out that removing ourselves from the conversation has effects way beyond ourselves. 
+
+<br>
+
+What a renewal of the calling to be the light of the world, to make disciples of all nations! What a reminder that the impact that every blog post, every comment, every bit of our interaction with the online world (or lackthereof) is an opportunity to, at the very least, not be part of the reason why the world forgets... 
 
 
 
